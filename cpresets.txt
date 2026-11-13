@@ -1,0 +1,6 @@
+# profile platform generator [system]
+debug native "Visual Studio 17 2022" Windows
+default native "Visual Studio 17 2022" Windows
+cortex-m4f-gcc stm32g431xx Ninja
+cortex-m4f-gcc stm32g474xx Ninja
+cortex-m4f-gcc stm32g491xx Ninja
